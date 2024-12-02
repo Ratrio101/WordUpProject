@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7b6a5e-a70b-4661-95fa-99c1dd03ed41" name="Changes" comment="Initial create">
-      <change beforePath="$PROJECT_DIR$/.idea/WordUpProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WordUpProject.iml" afterDir="false" />
+    <list default="true" id="db7b6a5e-a70b-4661-95fa-99c1dd03ed41" name="Changes" comment="Minimal working version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +63,20 @@
       <option name="project" value="LOCAL" />
       <updated>1733152298409</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Minimal working version">
+      <option name="closed" value="true" />
+      <created>1733154968304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733154968304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial create" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial create" />
+    <MESSAGE value="Minimal working version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minimal working version" />
   </component>
 </project>
