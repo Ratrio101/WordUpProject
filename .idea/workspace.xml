@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7b6a5e-a70b-4661-95fa-99c1dd03ed41" name="Changes" comment="Added some questions, fixed bugs.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="db7b6a5e-a70b-4661-95fa-99c1dd03ed41" name="Changes" comment="version 1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733156714817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="version 1.0">
+      <option name="closed" value="true" />
+      <created>1733156926301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733156926301</updated>
+    </task>
+    <task id="LOCAL-00006" summary="version 1.0">
+      <option name="closed" value="true" />
+      <created>1733157185197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733157185197</updated>
+    </task>
+    <task id="LOCAL-00007" summary="version 1.0">
+      <option name="closed" value="true" />
+      <created>1733157216299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733157216299</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +117,7 @@
     <MESSAGE value="Minimal working version" />
     <MESSAGE value="Added some questions&#10;Fixed bugs" />
     <MESSAGE value="Added some questions, fixed bugs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some questions, fixed bugs." />
+    <MESSAGE value="version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0" />
   </component>
 </project>
